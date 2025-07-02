@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MsOrdersApplication<ms-orders>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ecommerce.ms_orders.MsOrdersApplication",
+            "projectName": "ms-orders",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
